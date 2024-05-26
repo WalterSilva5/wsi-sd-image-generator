@@ -17,7 +17,7 @@ This is a simple image generator application built with Tkinter, leveraging the 
 ### Dependencies
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/image-generator-app.git
+    git clone https://github.com/WalterSilva5/wsi-sd-image-generator.git
     cd image-generator-app
     ```
 
