@@ -18,7 +18,7 @@ This is a simple image generator application built with Tkinter, leveraging the 
 1. Clone the repository:
     ```bash
     git clone https://github.com/WalterSilva5/wsi-sd-image-generator.git
-    cd image-generator-app
+    cd wsi-sd-image-generator
     ```
 
 2. Create a virtual environment and activate it:
